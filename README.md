@@ -9,7 +9,7 @@
 	<p>Địa chỉ:</p>
 	<p>Sở thích:</p>
 	<p>Bài hát yêu thích:</p>
-	<p>Ghét nhất:1</p>
+	<p>Ghét nhất:</p>
 	<p>Câu nói yêu thích:</p>
 </fieldset>
 </body>
